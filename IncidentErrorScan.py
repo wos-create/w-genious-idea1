@@ -6,9 +6,9 @@
  Descripttion : 入射光束倾斜造成指向误差
  version      :
  Author       : Wangxuyang
- Date         : 2024-07-13 17:13:56
- LastEditors  : ChenZhao
- LastEditTime : 2024-07-13 17:13:56
+ Date         : 2024-06-13 17:13:56
+ LastEditors  : Wangxuyang
+ LastEditTime : 2024-07-17 17:13:56
 """
 
 import matplotlib # type: ignore
